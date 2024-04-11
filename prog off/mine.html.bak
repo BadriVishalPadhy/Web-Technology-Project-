@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<style> 
+		body{
+			padding:20px;
+			background-color:#D6EBF2;
+			
+		}
+		p{
+				
+			font-size:20px;
+			text-align: left;
+	     }
+		h1{
+			text-align:center;
+			padding-right:2em;
+			color:BLACK;
+			border:7px;
+			border-style: inset ;
+			
+			
+		}
+		ul,ol{
+		font-size:20px;
+		}
+
+		
+		h2{
+			text-align:left;
+			padding-right:3em;
+		}
+		
+	</style>
+	</head>
+	<body>
+		<h1>Courses Offered</h1>
+		
+		
+		<h2>B.Tech(Hons.) Computer Science & Engineering</h2>
+		<p>The B.Tech. in Computer Science and Engineering program at XIM University is a 
+		four-year, full-time course designed to equip students with the necessary skills
+		and knowledge in the field of computer science. Here are the key details:</p>
+		
+		<ol>
+			<li>Program Overview </li>
+		
+		<ul>
+			<li>Duration: 4 years</li>
+			<li>Specialization: CSE(hons)</li>
+		</ul>
+		<li>Eligibility Criteria </li>
+		<ul>
+			<li>Candidates must have completed Class XII 
+			(or equivalent) in the Science stream (Physics,
+			Chemistry, Mathematics) with at least 60% marks in aggregate.</li>
+			<li>Final year +2 students expecting their results during 2024 can also
+			apply. Offers of admission to such candidates will be provisional
+			and subject to meeting all degree requirements by July 15, 2024</li>
+		</ul>
+		
+		<li>Program Objectives</li>
+		<ul>
+			<li>The B.Tech. CSE program aims to shape 
+			students as passionate coders, designers, 
+			researchers, and entrepreneurs.</li>
+			<li>Students learn coding languages, 
+			develop and analyze algorithms, understand 
+			systems, and implement software across various 
+			programming languages and platforms.</li>
+		</ul>
+		<li>Fee Waiver</li>
+		<ul>
+			<li>Students with 90% marks in aggregate in +2 examination are
+			eligible for a 50% course tuition fee waiver at the time
+			of admission.
+			</li>
+		</ul>
+		</ol>
+		
+		
+		<h2>M.tech Computer Science & Engineering</h2>
+		<p>	The M.Tech. in Computer Science and Engineering
+		program offered by the School of Computer Science and 
+		Engineering at XIM University is a two-year, full-time
+		postgraduate course. Here are the key details:</p>	
+		
+		<ol>
+			<li>Eligibility Criteria(Any one of the below) </li>
+		
+		<ul>
+			<li>M.Sc. in Computer Science, Information Technology,
+			Mathematics, Statistics, or related disciplines</li>
+			<li>B.E./B.Tech. in Computer Science and Engineering, Information 
+			Technology, Electrical, Electronics, or related disciplines.</li>
+			<li> MCA with at least 55% marks in aggregate from a recognized university.</li>
+		</ul>
+		<li>Program Highlights</li>
+		<ul>
+			<li>The curriculum blends 
+			machine learning, programming, 
+			and business-oriented subjects.</li>
+			<li> Students engage in an internship and a capstone project, 
+			fostering interaction with the data science community and practical 
+			application of data science knowledge.</li>
+		</ul>
+		<li>Fee Waiver </li>
+		
+		<ul>
+			<li>Students with 90% marks in aggregate in
+			graduation are eligible for a 50% course/tuition
+			fee waiver at the time of admission.</li>
+		</ul>
+		
+		</ol>
+		<h2>Ph.D Computer Science & Engineering specializations</h2>
+		
+		<ol>
+			<li>Program Overview </li>
+		
+		<ul>
+			<li>Duration: Variable (typically 3-5 years)</li>
+			<li>Participants are expected to be innovative knowledge 
+			builders in their respective fields, capable of generating 
+			new knowledge and contributing as thought leaders.</li>
+		</ul>
+		<li>Eligibility Criteria </li>
+		<ul>
+		<li>Candidates with a minimum of a 4-year/8-semester Bachelor’s 
+		degree (e.g., B.E., B.Tech, B.Sc-Agriculture & Allied Sciences, 
+		B.Arch, B.Plan) must have a minimum CGPA of 7.5/10 or equivalent.</li>
+		</ul>
+		
+		
+		
+		</ol>
+		
+	</body>
+</html>
