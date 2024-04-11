@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 
+	<style>
+	body{
+	background-color:#ADD8E6 ;}
+	 img{
+		width :1461px;
+		height:485px;
+		padding:5px;
+		padding-left:5px;
+		padding-right:5px;
+	 }
+
+	 h1{
+		text-align: center;
+		border-style: inset ;
+		color:#4666FF;
+		top: 100%; 
+		left: 0;
+	 }
+	 .dom{
+		position: absolute;
+	 }
+	 .eh{
+		text-align:center;
+		font-size:22px;
+	 }
+	</style>
+	
+</head>
+
+<body>
+	<h1>HISTORY</h1>
+	<div  class="dom" style="text-align: right;"><img src="imgg.jpg">
+	
+	<p class="eh"> The School of Computer Science & Engineering at XIM University, Bhubaneswar, has a rich history and a strong focus on quality education and innovation. 
+		Here are some key points about its background:
+		Establishment: It was established as part of Xavier University, which was founded in June 2013 when the Government of Odisha passed the Xavier University Act1.
+		Legacy: The school inherits the legacy of the Xavier Institute of Management, Bhubaneswar, a premier B-School in the country2.
+		Programs Offered: It offers B.Tech. (Hons.) in Computer Science & Engineering, M.Tech in Data Science & Analytics, and Ph.D. in Computer Science and Engineering3.
+		Focus on Innovation: The school emphasizes sound computer science fundamentals, coding, research, innovation, and entrepreneurship.</p>
+		
+	</div>
+	
+		
+		
+</body>
+</html>
